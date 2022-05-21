@@ -334,6 +334,7 @@ h1 {
 }
 
 .details__bg--down {
+  background-color: #2a2a72;
   background-color: #3f0d12;
   background-image: linear-gradient(315deg, #3f0d12 0%, #a71d31 74%);
 }
@@ -342,6 +343,8 @@ h1 {
   padding: 50px;
   background-color: #3f0d12;
   background-image: linear-gradient(315deg, #3f0d12 0%, #a71d31 74%);
+  /* background-color: #29539b;
+  background-image: linear-gradient(315deg, #29539b 0%, #1e3b70 74%); */
   transform-origin: 0 0;
 }
 
